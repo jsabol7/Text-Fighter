@@ -17,7 +17,7 @@ import time.GameClock;
 
 public class TestGameClock {
 
-
+private int HeyImJack;
 	
 	@Test
 	void testTimeConversion() {
